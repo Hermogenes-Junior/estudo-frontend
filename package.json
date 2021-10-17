@@ -1,0 +1,19 @@
+{
+  "name": "estudo-frontend",
+  "version": "1.0.0",
+  "description": "Projeto de estudo - HTML5, CSS e Biblioteca Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermogenes-Junior/estudo-frontend.git"
+  },
+  "author": "Hermogenes Gonçalves Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermogenes-Junior/estudo-frontend/issues"
+  },
+  "homepage": "https://github.com/Hermogenes-Junior/estudo-frontend#readme"
+}
